@@ -8,7 +8,7 @@ export default function Page() {
         <div className="mx-auto max-w-5xl px-4 py-6">
           <div className="flex items-center justify-between gap-6">
             <div className="max-w-2xl">
-              <h1 className="text-pretty text-3xl font-semibold tracking-tight md:text-4xl">
+              <h1 className="text-pretty text-2xl font-semibold tracking-tight md:text-3xl">
                 Sistem Identifikasi Bacaan Qiraat
               </h1>
               <p className="mt-3 text-base opacity-90">
