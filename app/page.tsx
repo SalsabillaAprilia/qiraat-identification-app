@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <main className="min-h-screen">
       <header className="border-b bg-accent text-accent-foreground">
-        <div className="mx-auto max-w-5xl px-4 py-12">
+        <div className="mx-auto max-w-5xl px-4 py-6">
           <div className="flex items-center justify-between gap-6">
             <div className="max-w-2xl">
               <h1 className="text-pretty text-3xl font-semibold tracking-tight md:text-4xl">
