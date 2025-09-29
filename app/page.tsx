@@ -18,7 +18,7 @@ export default function Page() {
             <img
               src="/audio-microphone-icon.jpg"
               alt="Ilustrasi ikon audio"
-              className="hidden sm:block select-none rounded-lg bg-card p-3 ring-1 ring-border w-1/2 max-w-xl h-auto object-contain"
+              className="hidden sm:block select-none rounded-lg bg-card p-3 ring-1 ring-border w-40 h-auto object-contain"
             />
           </div>
         </div>
